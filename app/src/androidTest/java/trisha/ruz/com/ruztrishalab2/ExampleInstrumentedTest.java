@@ -1,4 +1,4 @@
-package trisha.ruz.com.ruztrishalab1;
+package trisha.ruz.com.ruztrishalab2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

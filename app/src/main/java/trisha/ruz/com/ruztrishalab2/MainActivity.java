@@ -1,13 +1,13 @@
-package trisha.ruz.com.ruztrishalab1;
+package trisha.ruz.com.ruztrishalab2;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class RuzTrishaLab1 extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ruz_trisha_lab1);
+        setContentView(R.layout.screen1);
     }
 }
